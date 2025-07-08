@@ -64,4 +64,5 @@ The Linux file system is powerful, consistent, and designed for multi-user envir
 
 ---
 
-🧑‍💻 _Created by Rico John Dato-on_
+🧑‍💻 _Created by Rico John Dato-on_  
+🔗 [LinkedIn](https://www.linkedin.com/in/rico-john-dato-on) • [Portfolio](https://ricodatoon.netlify.app)
